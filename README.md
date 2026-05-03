@@ -2,12 +2,12 @@
 
 ## Repository Structure
 
-```
-├── Steam_Data_Collect.ipynb      # Data collection via Steam API
-├── Steam_Analysis_with_ML.ipynb  # Full analysis + ML model
-├── steam-game-id-list.json       # 30,000 Steam App IDs (input)
-└── steam_games_data.csv          # Collected dataset (output)
-```
+| Files | Description |
+|---|---|
+| `Steam_Data_Collect.ipynb ` | Data collection via Steam API |
+| `Steam_Analysis_with_ML.ipynb` | Full analysis + ML model |
+| `steam-game-id-list.json ` | 30,000 Steam App IDs (input) |
+| `steam_games_data.csv` | Collected dataset (output) |
 
 ---
 
