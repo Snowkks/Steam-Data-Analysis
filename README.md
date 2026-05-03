@@ -74,11 +74,3 @@ jupyter notebook Steam_Analysis_with_ML.ipynb
 | `requests` | Steam API calls (data collection) |
 
 ---
-
-| 8 | Platform Support vs Rating — Point-biserial r, ANOVA |
-| 9 | Combined correlation heatmap (all factors) |
-| 10 | Define success label & build feature matrix |
-| 11 | Train Random Forest + evaluate (accuracy, ROC-AUC, CV) |
-| 12 | Top 10 most popular games |
-| 13 | Final summary: key findings |
-| 14 | Save cleaned dataset |
